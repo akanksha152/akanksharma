@@ -1,0 +1,22 @@
+
+body{
+	background-color: #EBEDEF  ;
+	padding-left: 450px;
+
+
+}
+#aks p,h1,ul{
+	padding-bottom: 3px;
+}
+#pl{
+	border:2px solid white;
+	text-align: center;
+	margin-right:450px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
